@@ -1,1 +1,2 @@
-# media-query this is am exmple of making a header responsive by using #media-query
+This is am exmple of making a header responsive by using #media-query
+for viewing:
